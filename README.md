@@ -63,9 +63,6 @@
 </div>
 
 
-##### Visitor count
-![Visitor Count](https://profile-counter.glitch.me/gokulvibe/count.svg)
-
 <br>
 
 ### You can support me here:
