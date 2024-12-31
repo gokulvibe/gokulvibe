@@ -15,7 +15,7 @@
 
 <br>
 
-<p align="center" style="color:skyblue;"> I'm currently a college student practicing full stack web development </p>
+<p align="center" style="color:skyblue;"> Backend developer passionate on crafting scalable web applications </p>
 
 <br>
 
